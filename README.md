@@ -1,5 +1,5 @@
 # haqq-net-konkurs
-# Prepare to launch intensivized testnet Haqq
+#  testnet Haqq
 <h3>🟢 Instructions for those who do not transfer node to another server</h3>
 
 Update binary haqqd to v1.0.3
